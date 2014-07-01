@@ -4,7 +4,7 @@ Adds Child_Pages_Widget widget.
 Plugin Name:  Child Pages
 Plugin URI: http://lefkomedia.com
 Description: Lists out the child pages.
-Version: 1.2.1
+Version: 1.2.2
 Author: Zach Johnson
 Author URI: http://lefkomedia.com
 */
