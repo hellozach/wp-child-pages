@@ -20,7 +20,7 @@ function github_plugin_updater_test_init() {
 		$config = array(
 			'slug' => plugin_basename(__FILE__), // this is the slug of your plugin
 			'proper_folder_name' => 'child-pages', // this is the name of the folder your plugin lives in
-			'api_url' => 'https://api.github.com/zajohnson/wp-child-pages', // the github API url of your github repo
+			'api_url' => 'https://api.github.com/repos/zajohnson/wp-child-pages', // the github API url of your github repo
 			'raw_url' => 'https://raw.github.com/zajohnson/wp-child-pages/master', // the github raw url of your github repo
 			'github_url' => 'https://github.com/zajohnson/wp-child-pages', // the github url of your github repo
 			'zip_url' => 'https://github.com/zajohnson/wp-child-pages/zipball/master', // the zip url of the github repo
