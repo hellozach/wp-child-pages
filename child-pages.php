@@ -4,7 +4,7 @@ Adds Child_Pages_Widget widget.
 Plugin Name:  Child Pages
 Plugin URI: https://api.github.com/zajohnson/wp-child-pages
 Description: Lists out the child pages.
-Version: 1.2.3
+Version: 1.3.0
 Author: Zach Johnson
 Author URI: http://lefkomedia.com/author/zach/
 */
