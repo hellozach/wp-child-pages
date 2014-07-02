@@ -2,11 +2,11 @@
 /**
 Adds Child_Pages_Widget widget.
 Plugin Name:  Child Pages
-Plugin URI: http://lefkomedia.com
+Plugin URI: https://api.github.com/zajohnson/wp-child-pages
 Description: Lists out the child pages.
-Version: 1.2.2
+Version: 1.2.3
 Author: Zach Johnson
-Author URI: http://lefkomedia.com
+Author URI: http://lefkomedia.com/author/zach/
 */
 
 add_action( 'init', 'github_plugin_updater_test_init' );
